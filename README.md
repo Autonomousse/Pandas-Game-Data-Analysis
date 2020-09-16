@@ -1,4 +1,4 @@
-# Pandas - Heroes of Pymoli
+# Pandas Game Data Analysis - Heroes of Pymoli
 
 ## Goal
 The goal of this exercise is to take on the responsibilities of being a Lead Analyst for an independent gaming company to analyzing data for their new fantasy game, Heroes of Pymoli.
